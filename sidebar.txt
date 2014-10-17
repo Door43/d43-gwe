@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gwe:home|Door43 (gwe)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gwe|d43-gwe repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gwe/archive/master.zip|d43-gwe.zip]]
+
+**Recent Changes**
+{{changes>ns = gwe}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gwe|Ethnologue data]]
+
